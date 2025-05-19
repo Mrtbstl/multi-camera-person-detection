@@ -1,5 +1,6 @@
-# Multi-Camera Real-Time Face Detection Platform
+> **IMPORTANT NOTE:** Although the initial plan included GStreamer, it was excluded after repeated compatibility issues on macOS. Instead, we implemented a fully working Flask-based MJPEG stream server, which still delivers the required functionality.
 
+# Multi-Camera Real-Time Face Detection Platform
 This project implements a real-time video analytics and streaming system that detects faces from two simultaneous camera inputs and displays annotated video feeds along with detection metrics through a web interface and REST API.
 
 ---
