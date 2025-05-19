@@ -67,6 +67,12 @@ Example JSON response:
 
 ---
 
+## 🖼️ Architecture & Data Flow Diagram
+
+![Architecture Diagram](architecture_diagram.png)
+
+---
+
 ## 📂 Project Structure
 
 ```
